@@ -4,7 +4,7 @@ author: "Ibrokhim Sadikov"
 date: "02/09/2019"
 ---
 
-# Details
+# Details abt smth
 
 - Who did you collaborate with: TYPE NAMES HERE: I collaborated with Stack Overflow
 
